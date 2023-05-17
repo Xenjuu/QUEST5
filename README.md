@@ -1,6 +1,4 @@
-# Project Title
-
-My Top 3 Hobbies
+# My Top 3 Hobbies
 
 ## Description
 
