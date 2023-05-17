@@ -13,7 +13,7 @@ This project showcases my top 3 hobbies: coding, watching anime, and gaming. It'
 
 ## Preview
 
-Insert a screenshot or GIF preview of your webpage here.
+![Result](images/result.png)
 
 ## Installation
 
