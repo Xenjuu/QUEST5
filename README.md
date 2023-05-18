@@ -32,5 +32,3 @@ Feel free to customize the content and images to reflect your own top hobbies or
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize the README.md file further to include any additional information or sections relevant to your project.
